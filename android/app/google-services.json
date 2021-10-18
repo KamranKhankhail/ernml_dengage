@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "354319508954",
-    "project_id": "dengage-532e4",
-    "storage_bucket": "dengage-532e4.appspot.com"
+    "project_number": "950610767362",
+    "project_id": "ogunsample",
+    "storage_bucket": "ogunsample.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:354319508954:android:a340c1ae312635b3900ce3",
+        "mobilesdk_app_id": "1:950610767362:android:1c02017af162da68ee811b",
         "android_client_info": {
-          "package_name": "com.testdeangage"
+          "package_name": "com.testapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "354319508954-hhr8r8b9r4ojn89vm18ui6u3192a86f2.apps.googleusercontent.com",
+          "client_id": "950610767362-fb6ubjmjiui8qen0ublbqape3eu0qg91.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCH8prH8G5Byr-hPtyyiZKuDg5orrIbwHE"
+          "current_key": "AIzaSyAGY-b7b8Znl8r4GrVjQys8YiBCQ6TZWlk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "354319508954-hhr8r8b9r4ojn89vm18ui6u3192a86f2.apps.googleusercontent.com",
+              "client_id": "950610767362-fb6ubjmjiui8qen0ublbqape3eu0qg91.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
